@@ -1,2 +1,4 @@
-card_prefix = "2451300"
-book_prefix = "3451300"
+prefixes = {
+    'card': '2451300',
+    'book': '3451300'
+}
